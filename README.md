@@ -25,7 +25,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode)
+
+
+<br>
+
 
 <a href="https://in.linkedin.com/in/TheDudeThatCode">
   <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
