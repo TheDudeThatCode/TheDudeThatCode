@@ -18,15 +18,6 @@
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true)
 
-
-<br>
-
-
-
-
-
-<details>
-  <summary><b>Get in touch</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="18px"> </summary><br>
   <a href="https://in.linkedin.com/in/TheDudeThatCode">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -36,7 +27,6 @@
   <a href="mailto:shubhamdeepjha@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-</details>
 
 
 
