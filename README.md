@@ -1,4 +1,4 @@
-# Shubhamdeep Jha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello.gif" width="48px">
+# Shubhamdeep Jha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello.gif" width="32px">
 
 <!--
 **TheDudeThatCode/TheDudeThatCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
