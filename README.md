@@ -6,7 +6,7 @@
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="32px"> and a <b>Design Enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="32px"> who is <b>obsessed</b> <br>
-    with the idea of <b>improving</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="42px">  himself and wants a <b>platform</b> to grow and excel.
+    with the idea of <b>improving</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="32px">  himself and wants a <b>platform</b> to grow and excel.
   </em>  
 </p>
 
