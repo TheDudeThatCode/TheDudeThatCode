@@ -5,7 +5,7 @@
 </p>
 
 
-<br><br>
+<br>
 
 <!--
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> Hi, I'm Kat (she/her)—a senior product designer at GitHub working on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Oakland, CA and am an East Bay native. 🙌 I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist. 💕
