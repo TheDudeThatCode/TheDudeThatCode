@@ -1,4 +1,6 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/DC.svg" width="300px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/DC_Icon.svg" width="50px"> 
+
+# Shubhamdeep Jha   &nbsp;    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> <b>Hi</b>, I'm a <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="32px"> and a <b>Design Enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="32px"> 
