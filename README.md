@@ -51,3 +51,7 @@ Here are some ideas to get you started:
 <a href="mailto:shubhamdeepjha@gmail.com">
   <img align="left" alt="Shubhamdeep Jha | Gmail" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
+
+<br><br>
+<img align="center" alt="Made With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" />
+
