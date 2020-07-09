@@ -3,7 +3,9 @@
 ### Hello viewers! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <p>
-I'm a <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="32px"> and a <b>Design Enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="32px"> 
+  <em>
+    I'm a <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="32px"> and a <b>Design Enthusiast</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="32px"> 
+  </em>  
 </p>
 
 
