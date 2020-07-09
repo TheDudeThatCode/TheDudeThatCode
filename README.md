@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/TheDudeThatCode">
   <img align="left" alt="Shubhamdeep Jha | Twitter" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="shuhamdeepjha@gmail.com">
+  <img align="left" alt="Shubhamdeep Jha | Gmail" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
