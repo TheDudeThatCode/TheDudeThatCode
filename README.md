@@ -26,7 +26,7 @@
 
 
 <details>
-  <summary><b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Get in touch</b></summary><br>
+  <summary><b>Get in touch</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="18px"> </summary><br>
   <a href="https://in.linkedin.com/in/TheDudeThatCode">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
