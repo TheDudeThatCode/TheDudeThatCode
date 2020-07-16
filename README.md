@@ -1,6 +1,16 @@
+<!------------------ NAME HEADER ------------------>
+
+
 # Shubhamdeep Jha&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
 
+
+<!------------------ HELLO ------------------>
+
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+
+<!------------------ DESCRIPTION ------------------>
 
 
 <p>
@@ -18,8 +28,17 @@
 <br>
 
 
+
+<!------------------ GITHUB STATUS ------------------>
+
+
+
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
 
+
+
+
+<!------------------ CONTACT ------------------>
 
 
 
@@ -40,7 +59,15 @@
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
  
+ 
 <br>
 <br>
 
+
+<!------------------ MULTIMEDIA OR GAME ------------------>
+
+
 ![Dino](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif)
+
+
+<!------------------ MADE WITH INSPIRATIONS FROM MANY ACCOUNTS ------------------>
