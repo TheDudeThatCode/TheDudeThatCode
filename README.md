@@ -19,7 +19,7 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my laptop?
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to flex README on the profile and annoy people with [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode/TheDudeThatCode)
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to flex README on my profile.
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m looking to collaborate on weird ideas that would be least helpful
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with looking serious in README
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Ask me about why having wheels on laptop is a bad idea
@@ -31,8 +31,10 @@
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
 
-
 <br>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
 <br>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
@@ -47,7 +49,7 @@
 <br>
 <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
 
 
 
