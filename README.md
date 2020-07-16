@@ -16,15 +16,11 @@
 <br>
 <br>
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
-
-<br>
-<br>
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
 <!-- ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true) -->
 
+<br>
 <br>
 
 ## Connect with Me 🤝🏻
@@ -42,25 +38,7 @@
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
+<br>
+<br>
 
-
-<!--
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px"> Hi, I'm Kat (she/her)—a senior product designer at GitHub working on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Oakland, CA and am an East Bay native. 🙌 I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist. 💕
-
-
-**TheDudeThatCode/TheDudeThatCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
